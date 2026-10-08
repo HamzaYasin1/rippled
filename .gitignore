@@ -92,3 +92,5 @@ Builds/VisualStudio2015/*.sdf
 *.pdb
 .vs/
 branch_structure.json
+config.bat
+node_modules
