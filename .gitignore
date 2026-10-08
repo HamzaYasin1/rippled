@@ -44,7 +44,6 @@ db/*.db-*
 # Ignore debug logs
 debug_log.txt
 
-temp_auto_push.bat
 # Ignore customized configs
 rippled.cfg
 validators.txt
@@ -91,4 +90,3 @@ Builds/VisualStudio2015/*.sdf
 # MSVC
 *.pdb
 .vs/
-branch_structure.json
